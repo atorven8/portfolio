@@ -15,7 +15,7 @@ const AboutMe = () => {
             <div className="col-lg-6 col-xm-12">
             <h1 className="about-heading"> about me</h1>
                 <p>
-                Mama modi had done many work during his bengal election but he couldn't mamta . After this defeat Mama modi is going to Mughal Garden to get his mind refresh.                    
+                Mama modi had done many work during his bengal election but couldn't beat mamta . After this defeat Mama modi chiling in the Mughal Garden and saying "hagona karona" is the new chinese virus                
                 </p>
             </div>
         </div>
